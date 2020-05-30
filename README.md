@@ -4,15 +4,14 @@ Collect all the lyrics from an Artist.
 - Artists lines from a collaboration
 
 ## Installation
-use the packaged manager pip3 to install beautifulsoup
-
+Use the packaged manager pip3 to install beautifulsoup
 ```bash
 pip3 install beautifulsoup4
 ```
+
 ## Usage
 Save in Artist.csv the name the geniusId of an artist
 Then just use python3 to compile the scrapper
-
 ```bash
 python3 src/genius_scrapper.py
 ```
